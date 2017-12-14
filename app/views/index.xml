@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="window">
+		<ImageView id="background" image="background.jpg" />
+		<TextField id="titleTextField" value="My Scrapbook" />
+		<ImageView id="trashCan" image="trash_can.png" />
+		<ImageView id="imageView" image="appc.png" />
+	</Window>
+</Alloy>

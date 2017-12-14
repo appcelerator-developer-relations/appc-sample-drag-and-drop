@@ -1,0 +1,34 @@
+"Window": {
+	backgroundColor: "#fff"
+}
+
+"#titleTextField": {
+	top: 30,
+	left: 15,
+	right: 15,
+	height: Ti.UI.SIZE,
+	font: {
+		fontSize: 36,
+		fontWeight: 'bold'
+	}
+}
+
+"#background": {
+	top: 0,
+	left: 0,
+	width: 1944,
+	height: 1296
+}
+
+"#imageView": {
+	top: 100,
+	width: 200,
+	height: 200
+}
+
+"#trashCan": {
+	bottom: 10,
+	width: 36,
+	height: 32,
+	opacity: 0.5
+}
