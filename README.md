@@ -17,7 +17,7 @@ This project requires Xcode 9 with iOS 11 SDK and Titanium 7.0.0.
 
 ### Dependencies
 
-The Ti.DragDrop native module is required and included in the project. The module project is available here: https://github.com/appcelerator-developer-relations/ti.dragdrop
+The Ti.DragDrop native module is required and included in the project. The module project is available here: https://github.com/appcelerator-modules/ti.dragdrop
 
 ## Legal
 
